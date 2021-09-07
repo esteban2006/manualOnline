@@ -22,7 +22,7 @@ Lee :doc:`usage` la seccion para mas informacion, que incluye su forma de instal
 
 .. note::
 
-   This project is under active development.
+   Este sistema esta bajo desarrollo constante y activo.
 
 Contents
 --------
