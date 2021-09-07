@@ -3,32 +3,27 @@ Uso de brek
 
 .. _instalacion:
 
-Instalacionn
+Instalacion
 ------------
 
-To use Lumache, first install it using pip:
+Para utilizar nuestro sistema deberas de descargar la ultima version en :
 
-.. code-block:: console
+* `<https://sistemasintegradosao.com/bregDist//>`_
+* Elige tu sistema opertavo
+* Elige la ultima version baso en la fecha o por version
 
-   (.venv) $ pip install lumache
 
-Creating recipes
+Servicio de Alertas de BTC/USDT
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Este sistema te permite recibir alertas de posibles puntos de compra y venta de cripto monedas,
+Basados en Indicadores utilizados en el trading mundial entre los que encontramos:
 
-.. autofunction:: lumache.get_random_ingredients
+* MACD
+* ICHIMUKO CLOUD
+* SMA
+* EMA
+* STOCHASTIC RSI
+* Y OTROS MODELOS UNICOS DESARROLLADOS POR NUESTRA EMPRESA
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
