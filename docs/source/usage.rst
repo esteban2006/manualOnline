@@ -1,9 +1,9 @@
-Usage
+Uso de brek
 =====
 
-.. _installation:
+.. _instalacion:
 
-Installation
+Instalacionn
 ------------
 
 To use Lumache, first install it using pip:
