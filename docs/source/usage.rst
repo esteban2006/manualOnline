@@ -49,5 +49,23 @@ Los usuarios estan divididos en dos de acuerdo a su subscripcion:
 +----------------------------------------------+---------------------------------------------+                                                 
                                                  
 
+El Sistema
+----------------
+
+El sistema de trabajo es extremadamente franco y sencillo
+
+* Automatico
+
+Nuestra pantalla principal nos guiara a hasta el punto de activar o desactivas el sistema de alertas en el caso de los usuarios basicos
+En el caso de los usuarios Premium, se extenderan las opciones de cambiar settings:
+
+1. Cambio en los valores de cada indicador
+2. Cambio de tiempo de analisis del mercado
+3. Cambio en las estrategias de trading que se estaran analizando
+
+
+
+
+
 
 
