@@ -34,18 +34,18 @@ Los usuarios estan divididos en dos de acuerdo a su subscripcion:
 +----------------------------------------------+---------------------------------------------+
 | Basicos                                      |   Premiums                                  |
 +==============================================+=============================================+
-| Reciben las notificaciones via buscador:       Reciben sus notificaciones via TELEGRAM APP |
-| Goolge, Mozilla, etc.                          la cual debe de estar previamente agragada  |
-|                                                al sistema.                                 |
+| Reciben las notificaciones via buscador:     | Reciben sus notificaciones via TELEGRAM APP |
+| Goolge, Mozilla, etc.                        | la cual debe de estar previamente agragada  |
+|                                              | al sistema.                                 |
 +----------------------------------------------+---------------------------------------------+
-| Servicio en su computadora local.              Servicio web disponble, proximamente.       |
+| Servicio en su computadora local.            | Servicio web disponble, proximamente.       |
 +----------------------------------------------+---------------------------------------------+
-| Los tiempo  no son administrables.             Los tiempo si son administrabales.          |
+| Los tiempo  no son administrables.           | Los tiempo si son administrabales.          |
 +----------------------------------------------+---------------------------------------------+
-| Los valores de los indicadores son fijos.      Los valores puedes ser cambiados.           |
+| Los valores de los indicadores son fijos.    | Los valores puedes ser cambiados.           |
 +----------------------------------------------+---------------------------------------------+
-| Soporte tecnico via documentos en linea.       Soporte tecnico y servicio al cliente via   |
-|                                                call center.                                |
+| Soporte tecnico via documentos en linea.     | Soporte tecnico y servicio al cliente via   |
+|                                              | call center.                                |
 +----------------------------------------------+---------------------------------------------+                                                 
                                                  
 
