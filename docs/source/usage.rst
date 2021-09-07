@@ -56,7 +56,8 @@ El sistema de trabajo es extremadamente franco y sencillo.
 
 * Automatico
 
-Nuestra pantalla principal nos guiara a hasta el punto de activar o desactivas el sistema de alertas en el caso de los usuarios basicos |br||br|
+Nuestra pantalla principal te guiara hasta el punto de activar o desactivas el sistema de alertas en el caso de los usuarios basicos 
+
 
 En el caso de los usuarios Premium, se extenderan las opciones de cambiar settings:
 
