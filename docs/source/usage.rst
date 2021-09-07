@@ -114,12 +114,12 @@ Estas formulas estaran disponibles solo para los usuarios premium
 3. cLine - Cuando el precio cruza por debajo de la linea de Base
 
 
-Como Calcular mis ganancia o el momento de salir 
+Como Calcular mis ganancia o el momento de salir de la estrategia de ganancia
 ----------------
 
 
-1. Cuando has logrado la ganancia esperada
-2. El Calculo de la ganancia nunca es algo fijo, sin embargo se sugiere hacer un estudio a de cuanto genera el mercado cada vez que una de las estrategias es generada
+1. Cuando has logrado la ganancia esperada.
+2. El Calculo de la ganancia nunca es algo fijo, sin embargo se sugiere hacer un estudio a de cuanto genera el mercado cada vez que una de las estrategias es activada
 3. Recuerda que poco siempre es mejor
 
 
