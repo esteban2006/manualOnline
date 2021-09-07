@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Alertas Chivo'
+copyright = '2021, Eggsteban'
+author = 'Eggsteban'
 
 release = '0.1'
 version = '0.1.0'
