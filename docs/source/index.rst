@@ -18,8 +18,7 @@ Alertas Chivo busca ser parte de día a día laboral en las criptomonedas y con 
 
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Lee :doc:`usage` la seccion para mas informacion, que incluye su forma de instalacion :ref:`installation` the project.
 
 .. note::
 
