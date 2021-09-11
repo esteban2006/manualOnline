@@ -83,17 +83,71 @@ Estrategias con indicadores estandares mundial en el sistemas y cuando se activa
 **Generacion de alertas para compra**
 
 1. macd - Cuando la segunda barra en positivo del MACD inicia
+
+.. image:: img/macd.png
+    :width: 600px
+    :align: center
+    :height: 300px
+    :alt: macd
+
 2. smma - Cuando el precio cruza por ensima del SMA 
+
+.. image:: img/smma.png
+    :width: 600px
+    :align: center
+    :height: 300px
+    :alt: smma
+    
 3. macdOnTrend - Cuando la segunda barra en positivo del MACD inicia y la tendecia es a la alza
+
+.. image:: img/macdOnTrendBuy.png
+    :width: 600px
+    :align: center
+    :height: 300px
+    :alt: macdOnTrendBuy
+    
 4. smmaOnTrend - Cuando el precio cruza por ensima del SMA y el la tendencia es  a la alza
+
+.. image:: img/smmaOnTrendBuy.png
+    :width: 600px
+    :align: center
+    :height: 300px
+    :alt: macd
 
 
 **Generacion de alertas para Venta**
 
-1. macd - Cuando la segunda barra en negativo del MACD inicia
+1. macd - Cuando la segunda barra en negativo del MACD inicia   
+
+.. image:: img/macdSell.png
+    :width: 600px
+    :align: center
+    :height: 300px
+    :alt: macd
+
 2. smma - Cuando el precio cruza por debajo del SMA 
+
+.. image:: img/smmaSell.png
+    :width: 600px
+    :align: center
+    :height: 300px
+    :alt: smmaSell
+
 3. macdOnTrend - Cuando la segunda barra en negativo del MACD inicia y la tendecia es a la baja
+
+.. image:: img/macdOnTrendSell.png
+    :width: 600px
+    :align: center
+    :height: 300px
+    :alt: macd
+    
 4. smmaOnTrend - Cuando el precio cruza por debajo del SMA y el la tendencia es  a la baja
+
+.. image:: img/smmaOnTrendSell.png
+    :width: 600px
+    :align: center
+    :height: 300px
+    :alt: smmaOnTrendSell
 
 
 Estrategias con indicadores desarrollados por nuestra empresa y cuando se activan las alertas
