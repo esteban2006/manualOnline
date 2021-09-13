@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Alertas Chivo'
+project = 'Bit Alert'
 copyright = '2021, Eggsteban'
 author = 'Eggsteban'
 
