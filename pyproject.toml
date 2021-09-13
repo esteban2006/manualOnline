@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
-dynamic = ["version", "description"]
+name = "Bit Alert"
+authors = [{name = "Eggsteban", email = "esteban.g.jandres@gmail.com"}]
+dynamic = ["333.8.5", "BREK Es el nombre nativo del sisteme creado para informarte cuando convertir tus BTC a USD Utilizando la cartera Chivo"]
