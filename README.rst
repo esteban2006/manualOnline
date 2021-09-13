@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Bit Alert
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Alertas para convertir BTC a USD con la cartera Chivo
