@@ -1,4 +1,4 @@
-Alertas Chivo
+Bit Alert
 =====
 
 .. _instalacion:
